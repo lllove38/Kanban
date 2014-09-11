@@ -10,3 +10,5 @@ Kanban มีกฎอยู่แค่ 3 ข้อ (Scrum มี 9)
 *Measure the lead time*   
 ข้อดีของ Kanban
 ==============
+
+***to be continue :>***
